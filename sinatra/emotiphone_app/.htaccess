@@ -1,0 +1,4 @@
+PassengerEnabled on
+RackBaseURI /sinatra
+PassengerAppRoot /root/emotiphone/sinatra/emotiphone_app
+RackEnv development
